@@ -1,4 +1,4 @@
-import{r as p}from"./index.LFf77hJu.js";var f={exports:{}},s={};/**
+import{r as p}from"./chunk.LFf77hJu.mjs";var f={exports:{}},s={};/**
  * @license React
  * react-jsx-runtime.production.min.js
  *
